@@ -1,0 +1,61 @@
+{
+ "name": "Generic Relationships",
+ "children": [
+  {
+   "title": "Generic Relationships",
+   "id": "647122a5-d1da-7810-0923-ba5dd5f4fdee",
+   "type": "section",
+   "children": [
+    {
+     "title": "Introduction",
+     "id": "de80e3c9-aea3-27c0-720d-c6d90b0a2b7f",
+     "type": "page",
+     "pageId": "de80e3c9-aea3-27c0-720d-c6d90b0a2b7f"
+    },
+    {
+     "title": "contenttypes",
+     "id": "c3d09a8a-3f00-c8db-eb98-d40027a1efc6",
+     "type": "page",
+     "pageId": "c3d09a8a-3f00-c8db-eb98-d40027a1efc6"
+    },
+    {
+     "title": "Generic Relationships",
+     "id": "c52c6154-968a-9608-8dbe-b40f988b4450",
+     "type": "page",
+     "pageId": "375bb578-c016-140c-aa30-9af30b6984a1"
+    },
+    {
+     "title": "Reverse Generic Relationships",
+     "id": "6f801eb0-b5ea-7e32-637e-d870b6744514",
+     "type": "page",
+     "pageId": "eaa24e2f-d868-b748-c3e2-e0dba1bdb617"
+    },
+    {
+     "id": "3579baf4-4084-17b0-897d-0fcb8062a4c3",
+     "title": "Blango Project Updates",
+     "pageId": "7d70d3af-a8c9-64a7-a762-d516f8ee8904",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Formative Assessment",
+   "id": "e3c43aa2-cfad-8a21-2471-74b14fa74025",
+   "type": "section",
+   "children": [
+    {
+     "id": "6fbcebdb-a665-48da-9fed-2658448c9605",
+     "title": "Formative Assessment 1",
+     "pageId": "a3631df5-c6c9-f54a-3eab-0b0f1e1e51cc",
+     "type": "page"
+    },
+    {
+     "id": "d4c3d58b-7a10-eecd-d895-2760882c5d22",
+     "title": "Formative Assessment 2",
+     "pageId": "9e6a0318-c5c9-ab89-cd41-7aef19771c7c",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
